@@ -1,13 +1,13 @@
-ÔªøY,X1,X2
+Y,X1,X2
 0,Valdivia,Pinguino de Magallanes
 7,Valdivia,Pinguino de Humboldt
 3,Valdivia,Zarapito de Pico Recto
 0,Valdivia,Yunco
 0,Valdivia,Fardela Negra Grande
-102,Valdivia,Pel√≠cano
-4,Valdivia,Gaviot√≠n Monja
-0,Valdivia,C√≥ndor
-26,Valdivia,Pilpil√©n
+102,Valdivia,PelÌcano
+4,Valdivia,GaviotÌn Monja
+0,Valdivia,CÛndor
+26,Valdivia,PilpilÈn
 4,Valdivia,Aguilucho de Cola Rojiza
 4,Valdivia,Aguilucho Chico
 20,Valdivia,Carpintero Negro
@@ -16,24 +16,24 @@
 7,Valdivia,Rana Verde
 0,Valdivia,Tortuga Verde
 9,Valdivia,Marsopa Espinosa
-17,Valdivia,Delf√≠n Chileno
+17,Valdivia,DelfÌn Chileno
 0,Valdivia,Ballena Azul
 0,Valdivia,Ballena de Sei
 4,Valdivia,Ballena de Aleta
 40,Valdivia,Chungungo
 29,Valdivia,Huillin
-6,Valdivia,Pudu Sure√±o
-1,Valdivia,Monito del Monte Sure√±o
+6,Valdivia,Pudu SureÒo
+1,Valdivia,Monito del Monte SureÒo
 2,Valdivia,Comadrejita Trompuda
 0,Valdivia,Carpa Europea
-0,Valdivia,Gui√±a
+0,Valdivia,GuiÒa
 3,Valdivia,Pejerrey Chileno
 21,Valdivia,Gaviota Garuma
-6,Valdivia,Gaviot√≠n Elegante
+6,Valdivia,GaviotÌn Elegante
 4,Valdivia,Fardela Blanca
 6,Valdivia,Fardela Negra
 0,Valdivia,Zorro Chilote
-0,Valdivia,Lagartija del Volc√°n Villarica
+0,Valdivia,Lagartija del Volc·n Villarica
 8,Valdivia,Guanay
 114,Valdivia,Lile
 40,Valdivia,Culebra de Cola Corta
@@ -43,10 +43,10 @@
 0,Corral,Zarapito de Pico Recto
 2,Corral,Yunco
 4,Corral,Fardela Negra Grande
-26,Corral,Pel√≠cano
-3,Corral,Gaviot√≠n Monja
-0,Corral,C√≥ndor
-20,Corral,Pilpil√©n
+26,Corral,PelÌcano
+3,Corral,GaviotÌn Monja
+0,Corral,CÛndor
+20,Corral,PilpilÈn
 0,Corral,Aguilucho de Cola Rojiza
 0,Corral,Aguilucho Chico
 0,Corral,Carpintero Negro
@@ -55,24 +55,24 @@
 0,Corral,Rana Verde
 0,Corral,Tortuga Verde
 0,Corral,Marsopa Espinosa
-9,Corral,Delf√≠n Chileno
+9,Corral,DelfÌn Chileno
 17,Corral,Ballena Azul
 8,Corral,Ballena de Sei
 8,Corral,Ballena de Aleta
 19,Corral,Chungungo
 0,Corral,Huillin
-12,Corral,Pudu Sure√±o
-0,Corral,Monito del Monte Sure√±o
+12,Corral,Pudu SureÒo
+0,Corral,Monito del Monte SureÒo
 0,Corral,Comadrejita Trompuda
 0,Corral,Carpa Europea
-0,Corral,Gui√±a
+0,Corral,GuiÒa
 2,Corral,Pejerrey Chileno
 0,Corral,Gaviota Garuma
-2,Corral,Gaviot√≠n Elegante
+2,Corral,GaviotÌn Elegante
 7,Corral,Fardela Blanca
 0,Corral,Fardela Negra
 0,Corral,Zorro Chilote
-0,Corral,Lagartija del Volc√°n Villarica
+0,Corral,Lagartija del Volc·n Villarica
 4,Corral,Guanay
 21,Corral,Lile
 14,Corral,Culebra de Cola Corta
@@ -82,10 +82,10 @@
 0,Los Lagos,Zarapito de Pico Recto
 0,Los Lagos,Yunco
 0,Los Lagos,Fardela Negra Grande
-0,Los Lagos,Pel√≠cano
-0,Los Lagos,Gaviot√≠n Monja
-0,Los Lagos,C√≥ndor
-0,Los Lagos,Pilpil√©n
+0,Los Lagos,PelÌcano
+0,Los Lagos,GaviotÌn Monja
+0,Los Lagos,CÛndor
+0,Los Lagos,PilpilÈn
 0,Los Lagos,Aguilucho de Cola Rojiza
 0,Los Lagos,Aguilucho Chico
 0,Los Lagos,Carpintero Negro
@@ -94,76 +94,76 @@
 0,Los Lagos,Rana Verde
 0,Los Lagos,Tortuga Verde
 0,Los Lagos,Marsopa Espinosa
-0,Los Lagos,Delf√≠n Chileno
+0,Los Lagos,DelfÌn Chileno
 0,Los Lagos,Ballena Azul
 0,Los Lagos,Ballena de Sei
 0,Los Lagos,Ballena de Aleta
 0,Los Lagos,Chungungo
 0,Los Lagos,Huillin
-22,Los Lagos,Pudu Sure√±o
-9,Los Lagos,Monito del Monte Sure√±o
+22,Los Lagos,Pudu SureÒo
+9,Los Lagos,Monito del Monte SureÒo
 0,Los Lagos,Comadrejita Trompuda
 0,Los Lagos,Carpa Europea
-0,Los Lagos,Gui√±a
+0,Los Lagos,GuiÒa
 0,Los Lagos,Pejerrey Chileno
 0,Los Lagos,Gaviota Garuma
-0,Los Lagos,Gaviot√≠n Elegante
+0,Los Lagos,GaviotÌn Elegante
 0,Los Lagos,Fardela Blanca
 0,Los Lagos,Fardela Negra
 0,Los Lagos,Zorro Chilote
-0,Los Lagos,Lagartija del Volc√°n Villarica
+0,Los Lagos,Lagartija del Volc·n Villarica
 0,Los Lagos,Guanay
 0,Los Lagos,Lile
 0,Los Lagos,Culebra de Cola Corta
 0,Los Lagos,Chorlo Nevado
-7,La Uni√≥n,Pinguino de Magallanes
-0,La Uni√≥n,Pinguino de Humboldt
-0,La Uni√≥n,Zarapito de Pico Recto
-0,La Uni√≥n,Yunco
-0,La Uni√≥n,Fardela Negra Grande
-0,La Uni√≥n,Pel√≠cano
-6,La Uni√≥n,Gaviot√≠n Monja
-0,La Uni√≥n,C√≥ndor
-0,La Uni√≥n,Pilpil√©n
-0,La Uni√≥n,Aguilucho de Cola Rojiza
-0,La Uni√≥n,Aguilucho Chico
-4,La Uni√≥n,Carpintero Negro
-11,La Uni√≥n,Rana Grande de Hojarasca
-21,La Uni√≥n,Rana de Pecho Espinoso
-13,La Uni√≥n,Rana Verde
-0,La Uni√≥n,Tortuga Verde
-0,La Uni√≥n,Marsopa Espinosa
-0,La Uni√≥n,Delf√≠n Chileno
-0,La Uni√≥n,Ballena Azul
-0,La Uni√≥n,Ballena de Sei
-0,La Uni√≥n,Ballena de Aleta
-0,La Uni√≥n,Chungungo
-0,La Uni√≥n,Huillin
-7,La Uni√≥n,Pudu Sure√±o
-0,La Uni√≥n,Monito del Monte Sure√±o
-0,La Uni√≥n,Comadrejita Trompuda
-0,La Uni√≥n,Carpa Europea
-11,La Uni√≥n,Gui√±a
-0,La Uni√≥n,Pejerrey Chileno
-0,La Uni√≥n,Gaviota Garuma
-0,La Uni√≥n,Gaviot√≠n Elegante
-0,La Uni√≥n,Fardela Blanca
-0,La Uni√≥n,Fardela Negra
-0,La Uni√≥n,Zorro Chilote
-0,La Uni√≥n,Lagartija del Volc√°n Villarica
-0,La Uni√≥n,Guanay
-5,La Uni√≥n,Lile
-9,La Uni√≥n,Culebra de Cola Corta
-0,La Uni√≥n,Chorlo Nevado
+7,La UniÛn,Pinguino de Magallanes
+0,La UniÛn,Pinguino de Humboldt
+0,La UniÛn,Zarapito de Pico Recto
+0,La UniÛn,Yunco
+0,La UniÛn,Fardela Negra Grande
+0,La UniÛn,PelÌcano
+6,La UniÛn,GaviotÌn Monja
+0,La UniÛn,CÛndor
+0,La UniÛn,PilpilÈn
+0,La UniÛn,Aguilucho de Cola Rojiza
+0,La UniÛn,Aguilucho Chico
+4,La UniÛn,Carpintero Negro
+11,La UniÛn,Rana Grande de Hojarasca
+21,La UniÛn,Rana de Pecho Espinoso
+13,La UniÛn,Rana Verde
+0,La UniÛn,Tortuga Verde
+0,La UniÛn,Marsopa Espinosa
+0,La UniÛn,DelfÌn Chileno
+0,La UniÛn,Ballena Azul
+0,La UniÛn,Ballena de Sei
+0,La UniÛn,Ballena de Aleta
+0,La UniÛn,Chungungo
+0,La UniÛn,Huillin
+7,La UniÛn,Pudu SureÒo
+0,La UniÛn,Monito del Monte SureÒo
+0,La UniÛn,Comadrejita Trompuda
+0,La UniÛn,Carpa Europea
+11,La UniÛn,GuiÒa
+0,La UniÛn,Pejerrey Chileno
+0,La UniÛn,Gaviota Garuma
+0,La UniÛn,GaviotÌn Elegante
+0,La UniÛn,Fardela Blanca
+0,La UniÛn,Fardela Negra
+0,La UniÛn,Zorro Chilote
+0,La UniÛn,Lagartija del Volc·n Villarica
+0,La UniÛn,Guanay
+5,La UniÛn,Lile
+9,La UniÛn,Culebra de Cola Corta
+0,La UniÛn,Chorlo Nevado
 0,Panguipulli,Pinguino de Magallanes
 0,Panguipulli,Pinguino de Humboldt
 0,Panguipulli,Zarapito de Pico Recto
 0,Panguipulli,Yunco
 0,Panguipulli,Fardela Negra Grande
-0,Panguipulli,Pel√≠cano
-0,Panguipulli,Gaviot√≠n Monja
-3,Panguipulli,C√≥ndor
-0,Panguipulli,Pilpil√©n
+0,Panguipulli,PelÌcano
+0,Panguipulli,GaviotÌn Monja
+3,Panguipulli,CÛndor
+0,Panguipulli,PilpilÈn
 0,Panguipulli,Aguilucho de Cola Rojiza
 0,Panguipulli,Aguilucho Chico
 9,Panguipulli,Carpintero Negro
@@ -172,24 +172,24 @@
 0,Panguipulli,Rana Verde
 0,Panguipulli,Tortuga Verde
 0,Panguipulli,Marsopa Espinosa
-0,Panguipulli,Delf√≠n Chileno
+0,Panguipulli,DelfÌn Chileno
 0,Panguipulli,Ballena Azul
 0,Panguipulli,Ballena de Sei
 0,Panguipulli,Ballena de Aleta
 0,Panguipulli,Chungungo
 19,Panguipulli,Huillin
-0,Panguipulli,Pudu Sure√±o
-0,Panguipulli,Monito del Monte Sure√±o
+0,Panguipulli,Pudu SureÒo
+0,Panguipulli,Monito del Monte SureÒo
 0,Panguipulli,Comadrejita Trompuda
 5,Panguipulli,Carpa Europea
-5,Panguipulli,Gui√±a
+5,Panguipulli,GuiÒa
 0,Panguipulli,Pejerrey Chileno
 0,Panguipulli,Gaviota Garuma
-0,Panguipulli,Gaviot√≠n Elegante
+0,Panguipulli,GaviotÌn Elegante
 0,Panguipulli,Fardela Blanca
 0,Panguipulli,Fardela Negra
 0,Panguipulli,Zorro Chilote
-5,Panguipulli,Lagartija del Volc√°n Villarica
+5,Panguipulli,Lagartija del Volc·n Villarica
 0,Panguipulli,Guanay
 0,Panguipulli,Lile
 17,Panguipulli,Culebra de Cola Corta
@@ -199,10 +199,10 @@
 0,Lago Ranco,Zarapito de Pico Recto
 0,Lago Ranco,Yunco
 0,Lago Ranco,Fardela Negra Grande
-0,Lago Ranco,Pel√≠cano
-0,Lago Ranco,Gaviot√≠n Monja
-0,Lago Ranco,C√≥ndor
-0,Lago Ranco,Pilpil√©n
+0,Lago Ranco,PelÌcano
+0,Lago Ranco,GaviotÌn Monja
+0,Lago Ranco,CÛndor
+0,Lago Ranco,PilpilÈn
 0,Lago Ranco,Aguilucho de Cola Rojiza
 0,Lago Ranco,Aguilucho Chico
 3,Lago Ranco,Carpintero Negro
@@ -211,24 +211,24 @@
 0,Lago Ranco,Rana Verde
 0,Lago Ranco,Tortuga Verde
 0,Lago Ranco,Marsopa Espinosa
-0,Lago Ranco,Delf√≠n Chileno
+0,Lago Ranco,DelfÌn Chileno
 0,Lago Ranco,Ballena Azul
 0,Lago Ranco,Ballena de Sei
 0,Lago Ranco,Ballena de Aleta
 0,Lago Ranco,Chungungo
 0,Lago Ranco,Huillin
-6,Lago Ranco,Pudu Sure√±o
-0,Lago Ranco,Monito del Monte Sure√±o
+6,Lago Ranco,Pudu SureÒo
+0,Lago Ranco,Monito del Monte SureÒo
 0,Lago Ranco,Comadrejita Trompuda
 0,Lago Ranco,Carpa Europea
-3,Lago Ranco,Gui√±a
+3,Lago Ranco,GuiÒa
 4,Lago Ranco,Pejerrey Chileno
 0,Lago Ranco,Gaviota Garuma
-0,Lago Ranco,Gaviot√≠n Elegante
+0,Lago Ranco,GaviotÌn Elegante
 0,Lago Ranco,Fardela Blanca
 0,Lago Ranco,Fardela Negra
 0,Lago Ranco,Zorro Chilote
-0,Lago Ranco,Lagartija del Volc√°n Villarica
+0,Lago Ranco,Lagartija del Volc·n Villarica
 0,Lago Ranco,Guanay
 0,Lago Ranco,Lile
 0,Lago Ranco,Culebra de Cola Corta
@@ -238,10 +238,10 @@
 0,Mafil,Zarapito de Pico Recto
 0,Mafil,Yunco
 0,Mafil,Fardela Negra Grande
-0,Mafil,Pel√≠cano
-0,Mafil,Gaviot√≠n Monja
-0,Mafil,C√≥ndor
-0,Mafil,Pilpil√©n
+0,Mafil,PelÌcano
+0,Mafil,GaviotÌn Monja
+0,Mafil,CÛndor
+0,Mafil,PilpilÈn
 0,Mafil,Aguilucho de Cola Rojiza
 0,Mafil,Aguilucho Chico
 0,Mafil,Carpintero Negro
@@ -250,24 +250,24 @@
 0,Mafil,Rana Verde
 0,Mafil,Tortuga Verde
 0,Mafil,Marsopa Espinosa
-0,Mafil,Delf√≠n Chileno
+0,Mafil,DelfÌn Chileno
 0,Mafil,Ballena Azul
 0,Mafil,Ballena de Sei
 0,Mafil,Ballena de Aleta
 0,Mafil,Chungungo
 6,Mafil,Huillin
-0,Mafil,Pudu Sure√±o
-0,Mafil,Monito del Monte Sure√±o
+0,Mafil,Pudu SureÒo
+0,Mafil,Monito del Monte SureÒo
 0,Mafil,Comadrejita Trompuda
 4,Mafil,Carpa Europea
-0,Mafil,Gui√±a
+0,Mafil,GuiÒa
 0,Mafil,Pejerrey Chileno
 0,Mafil,Gaviota Garuma
-0,Mafil,Gaviot√≠n Elegante
+0,Mafil,GaviotÌn Elegante
 0,Mafil,Fardela Blanca
 0,Mafil,Fardela Negra
 0,Mafil,Zorro Chilote
-0,Mafil,Lagartija del Volc√°n Villarica
+0,Mafil,Lagartija del Volc·n Villarica
 0,Mafil,Guanay
 0,Mafil,Lile
 0,Mafil,Culebra de Cola Corta
@@ -277,10 +277,10 @@
 0,Rio Bueno,Zarapito de Pico Recto
 0,Rio Bueno,Yunco
 0,Rio Bueno,Fardela Negra Grande
-0,Rio Bueno,Pel√≠cano
-0,Rio Bueno,Gaviot√≠n Monja
-0,Rio Bueno,C√≥ndor
-0,Rio Bueno,Pilpil√©n
+0,Rio Bueno,PelÌcano
+0,Rio Bueno,GaviotÌn Monja
+0,Rio Bueno,CÛndor
+0,Rio Bueno,PilpilÈn
 0,Rio Bueno,Aguilucho de Cola Rojiza
 0,Rio Bueno,Aguilucho Chico
 13,Rio Bueno,Carpintero Negro
@@ -289,24 +289,24 @@
 0,Rio Bueno,Rana Verde
 0,Rio Bueno,Tortuga Verde
 0,Rio Bueno,Marsopa Espinosa
-0,Rio Bueno,Delf√≠n Chileno
+0,Rio Bueno,DelfÌn Chileno
 0,Rio Bueno,Ballena Azul
 0,Rio Bueno,Ballena de Sei
 0,Rio Bueno,Ballena de Aleta
 0,Rio Bueno,Chungungo
 18,Rio Bueno,Huillin
-6,Rio Bueno,Pudu Sure√±o
-15,Rio Bueno,Monito del Monte Sure√±o
+6,Rio Bueno,Pudu SureÒo
+15,Rio Bueno,Monito del Monte SureÒo
 0,Rio Bueno,Comadrejita Trompuda
 0,Rio Bueno,Carpa Europea
-15,Rio Bueno,Gui√±a
+15,Rio Bueno,GuiÒa
 0,Rio Bueno,Pejerrey Chileno
 0,Rio Bueno,Gaviota Garuma
-0,Rio Bueno,Gaviot√≠n Elegante
+0,Rio Bueno,GaviotÌn Elegante
 0,Rio Bueno,Fardela Blanca
 0,Rio Bueno,Fardela Negra
 0,Rio Bueno,Zorro Chilote
-0,Rio Bueno,Lagartija del Volc√°n Villarica
+0,Rio Bueno,Lagartija del Volc·n Villarica
 0,Rio Bueno,Guanay
 0,Rio Bueno,Lile
 5,Rio Bueno,Culebra de Cola Corta
@@ -316,10 +316,10 @@
 0,Lanco,Zarapito de Pico Recto
 0,Lanco,Yunco
 0,Lanco,Fardela Negra Grande
-0,Lanco,Pel√≠cano
-0,Lanco,Gaviot√≠n Monja
-0,Lanco,C√≥ndor
-0,Lanco,Pilpil√©n
+0,Lanco,PelÌcano
+0,Lanco,GaviotÌn Monja
+0,Lanco,CÛndor
+0,Lanco,PilpilÈn
 0,Lanco,Aguilucho de Cola Rojiza
 0,Lanco,Aguilucho Chico
 0,Lanco,Carpintero Negro
@@ -328,76 +328,76 @@
 0,Lanco,Rana Verde
 0,Lanco,Tortuga Verde
 0,Lanco,Marsopa Espinosa
-0,Lanco,Delf√≠n Chileno
+0,Lanco,DelfÌn Chileno
 0,Lanco,Ballena Azul
 0,Lanco,Ballena de Sei
 0,Lanco,Ballena de Aleta
 0,Lanco,Chungungo
 0,Lanco,Huillin
-0,Lanco,Pudu Sure√±o
-0,Lanco,Monito del Monte Sure√±o
+0,Lanco,Pudu SureÒo
+0,Lanco,Monito del Monte SureÒo
 0,Lanco,Comadrejita Trompuda
 0,Lanco,Carpa Europea
-1,Lanco,Gui√±a
+1,Lanco,GuiÒa
 0,Lanco,Pejerrey Chileno
 0,Lanco,Gaviota Garuma
-0,Lanco,Gaviot√≠n Elegante
+0,Lanco,GaviotÌn Elegante
 0,Lanco,Fardela Blanca
 0,Lanco,Fardela Negra
 0,Lanco,Zorro Chilote
-0,Lanco,Lagartija del Volc√°n Villarica
+0,Lanco,Lagartija del Volc·n Villarica
 0,Lanco,Guanay
 0,Lanco,Lile
 0,Lanco,Culebra de Cola Corta
 0,Lanco,Chorlo Nevado
-30,San Jos√© de Mariquina,Pinguino de Magallanes
-8,San Jos√© de Mariquina,Pinguino de Humboldt
-0,San Jos√© de Mariquina,Zarapito de Pico Recto
-0,San Jos√© de Mariquina,Yunco
-0,San Jos√© de Mariquina,Fardela Negra Grande
-7,San Jos√© de Mariquina,Pel√≠cano
-6,San Jos√© de Mariquina,Gaviot√≠n Monja
-0,San Jos√© de Mariquina,C√≥ndor
-0,San Jos√© de Mariquina,Pilpil√©n
-0,San Jos√© de Mariquina,Aguilucho de Cola Rojiza
-2,San Jos√© de Mariquina,Aguilucho Chico
-6,San Jos√© de Mariquina,Carpintero Negro
-35,San Jos√© de Mariquina,Rana Grande de Hojarasca
-0,San Jos√© de Mariquina,Rana de Pecho Espinoso
-29,San Jos√© de Mariquina,Rana Verde
-3,San Jos√© de Mariquina,Tortuga Verde
-0,San Jos√© de Mariquina,Marsopa Espinosa
-8,San Jos√© de Mariquina,Delf√≠n Chileno
-0,San Jos√© de Mariquina,Ballena Azul
-0,San Jos√© de Mariquina,Ballena de Sei
-0,San Jos√© de Mariquina,Ballena de Aleta
-7,San Jos√© de Mariquina,Chungungo
-18,San Jos√© de Mariquina,Huillin
-13,San Jos√© de Mariquina,Pudu Sure√±o
-0,San Jos√© de Mariquina,Monito del Monte Sure√±o
-1,San Jos√© de Mariquina,Comadrejita Trompuda
-0,San Jos√© de Mariquina,Carpa Europea
-9,San Jos√© de Mariquina,Gui√±a
-0,San Jos√© de Mariquina,Pejerrey Chileno
-3,San Jos√© de Mariquina,Gaviota Garuma
-3,San Jos√© de Mariquina,Gaviot√≠n Elegante
-3,San Jos√© de Mariquina,Fardela Blanca
-2,San Jos√© de Mariquina,Fardela Negra
-9,San Jos√© de Mariquina,Zorro Chilote
-0,San Jos√© de Mariquina,Lagartija del Volc√°n Villarica
-2,San Jos√© de Mariquina,Guanay
-16,San Jos√© de Mariquina,Lile
-4,San Jos√© de Mariquina,Culebra de Cola Corta
-0,San Jos√© de Mariquina,Chorlo Nevado
+30,San JosÈ de Mariquina,Pinguino de Magallanes
+8,San JosÈ de Mariquina,Pinguino de Humboldt
+0,San JosÈ de Mariquina,Zarapito de Pico Recto
+0,San JosÈ de Mariquina,Yunco
+0,San JosÈ de Mariquina,Fardela Negra Grande
+7,San JosÈ de Mariquina,PelÌcano
+6,San JosÈ de Mariquina,GaviotÌn Monja
+0,San JosÈ de Mariquina,CÛndor
+0,San JosÈ de Mariquina,PilpilÈn
+0,San JosÈ de Mariquina,Aguilucho de Cola Rojiza
+2,San JosÈ de Mariquina,Aguilucho Chico
+6,San JosÈ de Mariquina,Carpintero Negro
+35,San JosÈ de Mariquina,Rana Grande de Hojarasca
+0,San JosÈ de Mariquina,Rana de Pecho Espinoso
+29,San JosÈ de Mariquina,Rana Verde
+3,San JosÈ de Mariquina,Tortuga Verde
+0,San JosÈ de Mariquina,Marsopa Espinosa
+8,San JosÈ de Mariquina,DelfÌn Chileno
+0,San JosÈ de Mariquina,Ballena Azul
+0,San JosÈ de Mariquina,Ballena de Sei
+0,San JosÈ de Mariquina,Ballena de Aleta
+7,San JosÈ de Mariquina,Chungungo
+18,San JosÈ de Mariquina,Huillin
+13,San JosÈ de Mariquina,Pudu SureÒo
+0,San JosÈ de Mariquina,Monito del Monte SureÒo
+1,San JosÈ de Mariquina,Comadrejita Trompuda
+0,San JosÈ de Mariquina,Carpa Europea
+9,San JosÈ de Mariquina,GuiÒa
+0,San JosÈ de Mariquina,Pejerrey Chileno
+3,San JosÈ de Mariquina,Gaviota Garuma
+3,San JosÈ de Mariquina,GaviotÌn Elegante
+3,San JosÈ de Mariquina,Fardela Blanca
+2,San JosÈ de Mariquina,Fardela Negra
+9,San JosÈ de Mariquina,Zorro Chilote
+0,San JosÈ de Mariquina,Lagartija del Volc·n Villarica
+2,San JosÈ de Mariquina,Guanay
+16,San JosÈ de Mariquina,Lile
+4,San JosÈ de Mariquina,Culebra de Cola Corta
+0,San JosÈ de Mariquina,Chorlo Nevado
 0,Futrono,Pinguino de Magallanes
 0,Futrono,Pinguino de Humboldt
 0,Futrono,Zarapito de Pico Recto
 0,Futrono,Yunco
 0,Futrono,Fardela Negra Grande
-0,Futrono,Pel√≠cano
-0,Futrono,Gaviot√≠n Monja
-0,Futrono,C√≥ndor
-0,Futrono,Pilpil√©n
+0,Futrono,PelÌcano
+0,Futrono,GaviotÌn Monja
+0,Futrono,CÛndor
+0,Futrono,PilpilÈn
 0,Futrono,Aguilucho de Cola Rojiza
 0,Futrono,Aguilucho Chico
 0,Futrono,Carpintero Negro
@@ -406,24 +406,24 @@
 0,Futrono,Rana Verde
 0,Futrono,Tortuga Verde
 0,Futrono,Marsopa Espinosa
-0,Futrono,Delf√≠n Chileno
+0,Futrono,DelfÌn Chileno
 0,Futrono,Ballena Azul
 0,Futrono,Ballena de Sei
 0,Futrono,Ballena de Aleta
 0,Futrono,Chungungo
 2,Futrono,Huillin
-0,Futrono,Pudu Sure√±o
-0,Futrono,Monito del Monte Sure√±o
+0,Futrono,Pudu SureÒo
+0,Futrono,Monito del Monte SureÒo
 0,Futrono,Comadrejita Trompuda
 0,Futrono,Carpa Europea
-0,Futrono,Gui√±a
+0,Futrono,GuiÒa
 0,Futrono,Pejerrey Chileno
 0,Futrono,Gaviota Garuma
-0,Futrono,Gaviot√≠n Elegante
+0,Futrono,GaviotÌn Elegante
 0,Futrono,Fardela Blanca
 0,Futrono,Fardela Negra
 0,Futrono,Zorro Chilote
-0,Futrono,Lagartija del Volc√°n Villarica
+0,Futrono,Lagartija del Volc·n Villarica
 0,Futrono,Guanay
 0,Futrono,Lile
 0,Futrono,Culebra de Cola Corta
@@ -433,10 +433,10 @@
 0,Paillaco,Zarapito de Pico Recto
 0,Paillaco,Yunco
 0,Paillaco,Fardela Negra Grande
-0,Paillaco,Pel√≠cano
-0,Paillaco,Gaviot√≠n Monja
-0,Paillaco,C√≥ndor
-0,Paillaco,Pilpil√©n
+0,Paillaco,PelÌcano
+0,Paillaco,GaviotÌn Monja
+0,Paillaco,CÛndor
+0,Paillaco,PilpilÈn
 10,Paillaco,Aguilucho de Cola Rojiza
 2,Paillaco,Aguilucho Chico
 0,Paillaco,Carpintero Negro
@@ -445,24 +445,24 @@
 0,Paillaco,Rana Verde
 0,Paillaco,Tortuga Verde
 0,Paillaco,Marsopa Espinosa
-0,Paillaco,Delf√≠n Chileno
+0,Paillaco,DelfÌn Chileno
 0,Paillaco,Ballena Azul
 0,Paillaco,Ballena de Sei
 0,Paillaco,Ballena de Aleta
 0,Paillaco,Chungungo
 3,Paillaco,Huillin
-0,Paillaco,Pudu Sure√±o
-7,Paillaco,Monito del Monte Sure√±o
+0,Paillaco,Pudu SureÒo
+7,Paillaco,Monito del Monte SureÒo
 0,Paillaco,Comadrejita Trompuda
 0,Paillaco,Carpa Europea
-12,Paillaco,Gui√±a
+12,Paillaco,GuiÒa
 0,Paillaco,Pejerrey Chileno
 0,Paillaco,Gaviota Garuma
-0,Paillaco,Gaviot√≠n Elegante
+0,Paillaco,GaviotÌn Elegante
 0,Paillaco,Fardela Blanca
 0,Paillaco,Fardela Negra
 0,Paillaco,Zorro Chilote
-0,Paillaco,Lagartija del Volc√°n Villarica
+0,Paillaco,Lagartija del Volc·n Villarica
 0,Paillaco,Guanay
 0,Paillaco,Lile
 4,Paillaco,Culebra de Cola Corta
